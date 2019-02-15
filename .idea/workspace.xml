@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="064627ae-a677-404d-a41e-4905c5a884d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/SimpleExampleInput" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/day4_1_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/day4_2_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AdventCodeDay4$go_test_AdventCodeDay4.out" NAME="go test AdventCodeDay4 Coverage Results" MODIFIED="1550247182797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day4.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#14#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task/task.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+              <folding>
+                <element signature="e#14#67#0" expanded="true" />
+                <element signature="n#!!block;n#ProcessFile#0" />
+                <element signature="n#!!block;n#GetBestCandidateStrategy1#0" />
+                <element signature="n#!!block;n#GetBestCandidateStrategy2#0" />
+                <element signature="n#!!block;n#parseMinutes#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/day4_1_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#14#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/day4_2_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+              <folding>
+                <element signature="e#14#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/SimpleExampleInput">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/Input">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ivan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tests.go" />
+        <option value="$PROJECT_DIR$/Tests/Tests.go" />
+        <option value="$PROJECT_DIR$/Tests/_tests.go" />
+        <option value="$PROJECT_DIR$/Tests/_test.go" />
+        <option value="$PROJECT_DIR$/app/entry.go" />
+        <option value="$PROJECT_DIR$/Tests/some_test.go" />
+        <option value="$PROJECT_DIR$/Tests/SimpleExampleInput" />
+        <option value="$PROJECT_DIR$/Tests/day4_2_test.go" />
+        <option value="$PROJECT_DIR$/Day4.go" />
+        <option value="$PROJECT_DIR$/Task/task.go" />
+        <option value="$PROJECT_DIR$/Tests/day4_1_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="406" />
+    <option name="y" value="213" />
+    <option name="width" value="917" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AdventCodeDay4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventCodeDay4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventCodeDay4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventCodeDay4" type="462c0819:PsiDirectoryNode" />
+              <item name="Task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventCodeDay4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventCodeDay4" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivany\go\src\AdventCodeDay4\Tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivany\go\src\AdventCodeDay4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.go test Tests">
+    <configuration name="go build entry.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AdventCodeDay4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/app/entry.go" />
+      <package value="AdventCodeDay4" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="AdventCodeDay4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Day4.go" />
+      <package value="AdventCodeDay4" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test AdventCodeDay4" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="AdventCodeDay4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="AdventCodeDay4" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test Tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="AdventCodeDay4" />
+      <working_directory value="$PROJECT_DIR$/Tests" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="AdventCodeDay4" />
+      <directory value="$PROJECT_DIR$/Tests" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test Tests" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.go test AdventCodeDay4" />
+        <item itemvalue="Go Build.go build entry.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="go_test_AdventCodeDay4 - 2019.02.15 at 20h 24m 18s.xml">
+      <configuration name="go test AdventCodeDay4" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_AdventCodeDay4 - 2019.02.15 at 20h 24m 24s.xml">
+      <configuration name="go test AdventCodeDay4" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 27m 25s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 28m 28s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 33m 09s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 34m 13s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 34m 18s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 35m 57s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 48m 08s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_Tests - 2019.02.15 at 20h 57m 01s.xml">
+      <configuration name="go test Tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 4 task is implemented." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4 task is implemented." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/entry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#13#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/day4_2_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <element signature="e#14#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Input">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/SimpleExampleInput">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task/task.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#14#67#0" expanded="true" />
+            <element signature="n#!!block;n#ProcessFile#0" />
+            <element signature="n#!!block;n#GetBestCandidateStrategy1#0" />
+            <element signature="n#!!block;n#GetBestCandidateStrategy2#0" />
+            <element signature="n#!!block;n#parseMinutes#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#14#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/day4_1_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
