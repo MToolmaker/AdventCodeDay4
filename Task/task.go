@@ -69,7 +69,7 @@ func ProcessFile(fileName string) (map[int]int, map[int]*[60]int, error) {
 }
 
 /* This function seeks a guard who sleeps total more than others and returns his ID and minute when he is most likely asleep.
-   It gets a map which associate guard ID and his total time being asleep and a map which associate guard ID and
+   It gets a map which associates guard ID and his total time being asleep and a map which associate guard ID and
    array of minutes within 0-59, each element of array shows number of times when the guard was asleep at current
    minute */
 func GetBestCandidateStrategy1(guardSleepingMinutes map[int]int, guardMidnightMinutes map[int]*[60]int) (int, int) {
@@ -96,7 +96,7 @@ func GetBestCandidateStrategy1(guardSleepingMinutes map[int]int, guardMidnightMi
 }
 
 /* This function seeks a guard who sleeps more than others at some minute and returns his ID and this minute.
-   It gets a map which associate guard ID and array of minutes within 0-59, each element of array shows number
+   It gets a map which associates guard ID and array of minutes within 0-59, each element of array shows number
    of times when the guard was asleep at current minute. */
 func GetBestCandidateStrategy2(guardMidnightMinutes map[int]*[60]int) (int, int) {
 	bestMinute := -1
